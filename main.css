@@ -73,7 +73,7 @@ form{
     background-color: #ccc;
   }
   .container input:checked ~ .checkmark {
-    background-color: #29ABE2;
+    background-color: rgb(184, 104, 173);
   }
   .checkmark:after {
     content: "";
